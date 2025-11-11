@@ -1,25 +1,20 @@
-# Project Title
+# SortedSets-ExceptWith  
 
 
-Short one-line summary of what the project does.
+C# Implementation of using SortedSets and the built in ExceptWith method to get desired output.
 
 
 ## Description
-Write 2–4 sentences explaining what the project does and why.
-
-
-## Features
-- Feature A
-- Feature B
+This program has a list of groceries but only a few are used to make a sandwich, we use ExceptWith to find those ingredients and display them to the user.
 
 
 ## Technologies
-- Language / Framework: e.g. Python 3.11, Node 18, .NET 8
-- Libraries: list any major ones
+- Language / Framework: C#
+
 
 
 ## How to run (local)
-1. Clone: `git clone https://github.com/Sxoony/REPO-NAME.git`
+1. Clone: `git clone https://github.com/Sxoony/SortedSets-ExceptWith.git`
 2. Navigate: `cd REPO-NAME`
 3. Setup
 - Open in Visual Studio (C#)
